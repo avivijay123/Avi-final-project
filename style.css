@@ -1,0 +1,92 @@
+*{
+    background-image:url(https://i.gifer.com/origin/39/39811b193740d39ec897282387432895.gif)
+    
+}
+
+.jewelry-1{
+    border-radius: 40px;
+    
+}
+h2{
+    color: lightblue;
+}
+h3{
+    color: lightblue;
+    
+}
+.jewelry-2 {
+    position: absolute;right: 40%;bottom: 35%;
+    border-radius: 40px;
+}
+.h3 {
+    position: absolute;right: 55%;bottom: 67%;
+}
+.second {
+    position: absolute;right: 40%;bottom:30%;
+    color: lightblue;
+}
+h1 {
+    color: lightblue;
+    font-family: fantasy;
+    font-size:60px
+}
+.jewelry-3{
+    position: absolute;right:6%;bottom:36%;
+    border-radius: 40px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: lightblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+
+  li a:hover {
+    background-color: #111;
+  }
+  .heading {
+    font-size: xx-large;
+    
+  }
+  .third-text {
+    position: absolute;right:30%;bottom:61%;
+    font-size: x-large;
+  }
+.third {
+    position: absolute;bottom: 30%;right: 3%;
+}
+.fourth-text {
+    position: absolute;bottom: 17%;
+    font-size: 24px;
+}
+.jewelry-4 {
+    border-radius: 40px;
+}
+.jewelry-5 {
+    border-radius: 40px;
+    position: absolute;right: 37%;bottom: -3%;
+}
+.fifth-text {
+    position: absolute; right:35%;bottom: 17%;
+    font-size: 24px;
+}
+.fifth {
+    position: absolute;right:30%;bottom:-9%;
+}
+.fourth {
+    position: absolute;bottom:-9%
+}
